@@ -1,0 +1,1 @@
+copy /b/v/y "../target/*jar-with-dependencies.jar" "D:/Executables/docker-utils.jar"
